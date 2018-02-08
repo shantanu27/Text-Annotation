@@ -1,0 +1,5 @@
+# Text-Annotation
+
+One basic unit of metadata for text processing is the annotation. Every annotation has a type (String), a begin offset (int) and an end offset (int). The begin and end offsets indicate the position of the annotation in the original text. Specific annotation types may also contain additional attributes. For example, the annotation <type=PERSON, begin=0, end=4, gender=MALE> may be associated with the string "John loves Mary", indicating that the first four characters in the string represent a PERSON, with the additional feature "gender=MALE".
+
+An annotated string contains a text string (the original raw data) and a (possibly empty) set of all annotations produced for that text string. In the UIMA framework, the set of annotations for a text is referred to as the annotation index. Annotators may access the content of the annotation index to examine pre-existing annotations. The annotation index may be accessed by type (returning all existing annotations of a given type), or by a span (begin, end), which returns all annotations of any type which are contained in the given span.

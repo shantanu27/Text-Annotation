@@ -1,0 +1,30 @@
+
+Booth shot Lincoln
+1 1.0000 Booth shot Lincoln
+0 1.0000 Lincoln shot Booth
+1 0.6000 Lincoln was shot by Booth
+0 0.6000 Booth was shot by Lincoln
+1 0.5000 Booth assassinated Lincoln
+0 0.5000 Lincoln assassinated Booth
+1 0.3333 Lincoln was assassinated by Booth
+0 0.3333 Booth was assassinated by Lincoln
+
+P@N: 2 out of top 4 = 0.5000
+
+MRR: 1.0
+
+Mary loves John
+1 0.5000 Mary adores John
+1 0.5000 John says that Mary loves him
+1 0.3333 John is loved by Mary
+0 0.3333 Mary is loved by John
+1 0.3333 John is adored by Mary
+0 0.3333 Mary is adored by John
+
+P@N: 3 out of top 4 = 0.7500
+
+MRR: 1.0
+
+Macro averaged score (JaccardRanker): 0.625
+
+Macro averaged MRR (JaccardRanker): 1.000

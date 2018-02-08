@@ -1,0 +1,30 @@
+Q,Booth shot Lincoln
+A,1,Booth shot Lincoln
+A,0,Lincoln shot Booth
+A,1,Lincoln was shot by Booth
+A,0,Booth was shot by Lincoln
+A,1,Booth assassinated Lincoln
+A,0,Lincoln assassinated Booth
+A,1,Lincoln was assassinated by Booth
+A,0,Booth was assassinated by Lincoln
+Q,Mary loves John
+A,1,John is loved by Mary
+A,0,Mary is loved by John
+A,1,Mary adores John
+A,1,John is adored by Mary
+A,0,Mary is adored by John
+A,1,John says that Mary loves him
+Q,Mary loves John
+A,1,John is loved by Mary
+A,0,Mary is loved by John
+A,1,Mary adores John
+A,1,John is adored by Mary
+A,0,Mary is adored by John
+A,1,John says that Mary loves him
+Q,Mary loves John
+A,1,John is loved by Mary
+A,0,Mary is loved by John
+A,1,Mary adores John
+A,1,John is adored by Mary
+A,0,Mary is adored by John
+A,1,John says that Mary loves him

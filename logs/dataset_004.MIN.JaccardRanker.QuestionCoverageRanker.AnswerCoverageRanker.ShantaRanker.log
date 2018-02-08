@@ -1,0 +1,76 @@
+
+Where did Booth shoot Lincoln
+1 0.0000 John Wilkes Booth was an American actor and assassin who murdered President Abraham Lincoln at Ford's Theatre in Washington D.C. on April 14 1865
+0 0.0000 Booth was a member of the prominent 19th-century Booth theatrical family from Maryland and by the 1860s was a well-known actor
+0 0.0000 He was also a Confederate sympathizer vehement in his denunciation of Lincoln and strongly opposed to the abolition of slavery in the United States
+
+P@N: 1 out of top 1 = 1.0000
+
+MRR: 1.0
+
+When did Booth shoot Lincoln
+1 0.0000 John Wilkes Booth was an American actor and assassin who murdered President Abraham Lincoln at Ford's Theatre in Washington D.C. on April 14 1865
+0 0.0000 Booth was a member of the prominent 19th-century Booth theatrical family from Maryland and by the 1860s was a well-known actor
+0 0.0000 He was also a Confederate sympathizer vehement in his denunciation of Lincoln and strongly opposed to the abolition of slavery in the United States
+
+P@N: 1 out of top 1 = 1.0000
+
+MRR: 1.0
+
+In what theater did Booth attack Lincoln
+1 0.0000 John Wilkes Booth was an American actor and assassin who murdered President Abraham Lincoln at Ford's Theatre in Washington D.C. on April 14 1865
+0 0.0000 Booth was a member of the prominent 19th-century Booth theatrical family from Maryland and by the 1860s was a well-known actor
+0 0.0000 He was also a Confederate sympathizer vehement in his denunciation of Lincoln and strongly opposed to the abolition of slavery in the United States
+
+P@N: 1 out of top 1 = 1.0000
+
+MRR: 1.0
+
+Who did John Wilkes Booth assasinate
+1 0.1111 John Wilkes Booth was an American actor and assassin who murdered President Abraham Lincoln at Ford's Theatre in Washington D.C. on April 14 1865
+0 0.0000 Booth was a member of the prominent 19th-century Booth theatrical family from Maryland and by the 1860s was a well-known actor
+0 0.0000 He was also a Confederate sympathizer vehement in his denunciation of Lincoln and strongly opposed to the abolition of slavery in the United States
+
+P@N: 1 out of top 1 = 1.0000
+
+MRR: 1.0
+
+Who was Lincoln's assassin
+1 0.0000 John Wilkes Booth was an American actor and assassin who murdered President Abraham Lincoln at Ford's Theatre in Washington D.C. on April 14 1865
+0 0.0000 Booth was a member of the prominent 19th-century Booth theatrical family from Maryland and by the 1860s was a well-known actor
+0 0.0000 He was also a Confederate sympathizer vehement in his denunciation of Lincoln and strongly opposed to the abolition of slavery in the United States
+
+P@N: 1 out of top 1 = 1.0000
+
+MRR: 1.0
+
+What was the occupation of Lincoln's assassin
+0 0.1200 He was also a Confederate sympathizer vehement in his denunciation of Lincoln and strongly opposed to the abolition of slavery in the United States
+1 0.0000 John Wilkes Booth was an American actor and assassin who murdered President Abraham Lincoln at Ford's Theatre in Washington D.C. on April 14 1865
+1 0.0000 Booth was a member of the prominent 19th-century Booth theatrical family from Maryland and by the 1860s was a well-known actor
+
+P@N: 1 out of top 2 = 0.5000
+
+MRR: 0.5
+
+What was the nationality of Lincoln's assassin
+0 0.1200 He was also a Confederate sympathizer vehement in his denunciation of Lincoln and strongly opposed to the abolition of slavery in the United States
+1 0.0000 John Wilkes Booth was an American actor and assassin who murdered President Abraham Lincoln at Ford's Theatre in Washington D.C. on April 14 1865
+1 0.0000 Booth was a member of the prominent 19th-century Booth theatrical family from Maryland and by the 1860s was a well-known actor
+
+P@N: 1 out of top 2 = 0.5000
+
+MRR: 0.5
+
+Why did Booth assasinate Lincoln
+0 0.0000 John Wilkes Booth was an American actor and assassin who murdered President Abraham Lincoln at Ford's Theatre in Washington D.C. on April 14 1865
+0 0.0000 Booth was a member of the prominent 19th-century Booth theatrical family from Maryland and by the 1860s was a well-known actor
+1 0.0000 He was also a Confederate sympathizer vehement in his denunciation of Lincoln and strongly opposed to the abolition of slavery in the United States
+
+P@N: 0 out of top 1 = 0.0000
+
+MRR: 0.3333333333333333
+
+Macro averaged score (MIN.JaccardRanker.QuestionCoverageRanker.AnswerCoverageRanker.ShantaRanker): 0.750
+
+Macro averaged MRR (MIN.JaccardRanker.QuestionCoverageRanker.AnswerCoverageRanker.ShantaRanker): 0.792

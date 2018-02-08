@@ -1,7 +1,7 @@
 import re
 
-from text_annotation.Annotation import Annotation
-from .Annotator import Annotator
+from Annotation import Annotation
+from Annotator import Annotator
 
 
 class RegexAnnotator(Annotator):

@@ -1,9 +1,9 @@
 from IndependentRanker import IndependentRanker
 
-from text_annotation.AnnotatedString import AnnotatedString
-from text_annotation.annotation_index.ListAnnotationIndex import ListAnnotationIndex
-from text_annotation.annotator import NGramAnnotator as ng
-from text_annotation.annotator import RegexAnnotator as reg
+from AnnotatedString import AnnotatedString
+from ListAnnotationIndex import ListAnnotationIndex
+import RegexAnnotator as reg
+import NGramAnnotator as ng
 
 
 class ShantaRanker(IndependentRanker):

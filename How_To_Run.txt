@@ -1,0 +1,7 @@
+source venv/bin/activate
+
+To run the ranker (which generates html output):
+python3 Pipeline.py
+
+To specifically run the Annotation processor pipeline (which splits paragraphs and converts into annotations):
+python3 AnnotationPipeline.py

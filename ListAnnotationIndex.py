@@ -1,5 +1,5 @@
-from text_annotation.Annotation import Annotation
-from .AnnotationIndex import AnnotationIndex
+from Annotation import Annotation
+from AnnotationIndex import AnnotationIndex
 
 
 class ListAnnotationIndex(AnnotationIndex):
